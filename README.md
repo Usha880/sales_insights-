@@ -1,22 +1,15 @@
-**Project Title:**
-"**Sales Analysis Dashboard in  PowerBI"**
+Project Title:
+Sales Analysis Dashboard in Power BI
 
-**Project Description:**
+Project Description:
+This Power BI project provides comprehensive insights into sales performance, including trend analysis, identification of top-performing products, and a breakdown of sales by region. Using advanced data visualization techniques, the dashboard supports data-driven decision-making for sales teams and management.
 
-A power BI Project designed to provide in-depth sales insights,including trends,top-performing products,and regional sales distributions.This project uses data visualisation techniques to assist
-in data-driven decision-making for sales teams and management.
+Key Features:
 
-**key Features:**
+Sales trend analysis by month, quarter, and year
+Revenue by markets
+Sales quantity by markets
+Top 5 customers and products based on revenue
 
-...Sales trend analysis by month,quarter, and year
-...Revenue by Markets
-...Sales Qty b Markets
-...Top 5 customers and products based on Revenue
-
-
-**Data Source:**
-
-
-
-
-
+Data Source:
+The data for this analysis is sourced from a Kaggle SQL dump file, which includes tables such as customers, date, markets, products, and transactions.
